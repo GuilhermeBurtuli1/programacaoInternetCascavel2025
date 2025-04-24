@@ -1,0 +1,27 @@
+table{
+    background-color: #c7e7f3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 0 auto;
+    width: 1500px;
+    height: 300px;
+}
+
+.titulo{
+    color: wheat;
+    background-color: #0d5188;
+}
+
+.subtitulo{
+    background-color: #66c5e3;
+    text-align: center;
+}
+
+.cidade{
+    background-color: silver;
+    text-align: center;
+}
+
+.nomes{
+    background-color: #c7e7f3;
+}

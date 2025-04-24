@@ -1,0 +1,53 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+table {
+    margin: 0  auto;
+    border: 1px solid #dddddd;
+}
+
+td {
+    border-top: 1px solid #dddddd;
+}
+.azulescuro {
+    color: #003366;
+    margin: 5px auto;
+}
+
+.azulceleste {
+    color: #1398be;
+}
+
+.laranja { 
+    color: #DE9800;
+}
+
+.cinza {
+    color: #CCCCCC;
+}
+
+.vermelho {
+    color: #C91B04;
+    width: 30px;
+}
+
+.pontoscinza {
+    background-color: #dddddd;
+    width: 36px;
+    text-align: center;
+}
+
+.menor  {
+    width: 200px;
+}
+
+.pontobranco {
+    width: 36px;
+    text-align: center;
+}
+
+.valores {
+    color: #DDDDDD;
+}
