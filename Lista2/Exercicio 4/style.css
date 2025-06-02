@@ -1,0 +1,14 @@
+.tabela {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+
+.pizzas {
+    width: 90px;
+}
+
+button:hover {
+  background-color: rgb(185, 253, 202); 
+  color: rgb(0, 0, 0); 
+}
